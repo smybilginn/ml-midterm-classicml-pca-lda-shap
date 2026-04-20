@@ -13,7 +13,6 @@ Ayrıca modelin karar mekanizmasını açıklamak amacıyla SHAP (SHapley Additi
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
-- XGBoost Classifier
 - Gaussian Naive Bayes
 
 ## Uygulanan Yöntemler
